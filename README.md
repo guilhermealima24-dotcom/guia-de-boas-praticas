@@ -1,2 +1,3 @@
-# guia-de-boas-praticas
- Manual de boas práticas digitais desenvolvido para clientes da agência.
+(# Guia de Boas Práticas - InovaWeb)
+Autor:Guilherme de Andrade Lima.
+O guia contem boas praticas que devem ser cultivadas em nossa empresa visando melhor convinvencia e colaboração.
